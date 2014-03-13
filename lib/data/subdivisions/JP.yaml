@@ -1,27 +1,27 @@
 ---
 ? "01"
 :
-  name: "Hokkaidô [Hokkaido]"
+  name: 北海道
   names: "Hokkaidô [Hokkaido]"
 ? "02"
 :
-  name: Aomori
+  name: 青森
   names: Aomori
 ? "03"
 :
-  name: Iwate
+  name: 岩手
   names: Iwate
 ? "04"
 :
-  name: Miyagi
+  name: 宮城
   names: Miyagi
 ? "05"
 :
-  name: Akita
+  name: 秋田
   names: Akita
 ? "06"
 :
-  name: Yamagata
+  name: 山形
   names: Yamagata
 ? "07"
 :
